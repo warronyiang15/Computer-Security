@@ -1,6 +1,6 @@
 # Thoughts
 
-This was my first official offline CTF competition, hosted by a Taiwanese organization. Initially, I only wanted to complete the tasks required for the external CTF competition, which was part of the Computer Security Fall 2022 course at NTU. However, I discovered that solving the problems was a lot of fun, even though some of them were quite challenging as I was still a newbie to CTF.
+This was my first official online CTF competition, hosted by a Taiwanese organization. Initially, I only wanted to complete the tasks required for the external CTF competition, which was part of the Computer Security Fall 2022 course at NTU. However, I discovered that solving the problems was a lot of fun, even though some of them were quite challenging as I was still a newbie to CTF.
 
 During the CTF, I learned about the various modes of CTF and what to expect when participating in a jeopardy CTF mode. This gave me valuable ideas and strategies to prepare for the final exam, which is the AIS EOF 2022 qualification.
 
