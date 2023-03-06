@@ -47,5 +47,5 @@ I am the one who wearing the black shirt and black mask XD
 
 #### Results
 
-We get 12th rank!
+We get 12th rank! Yeah!
 ![](final_result.png)
