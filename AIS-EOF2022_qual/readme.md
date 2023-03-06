@@ -3,6 +3,7 @@
 ### Team profile
 
 ![](pic1.png)
+\
 I am b09902078 which corresponds to my student ID.
 
 ### Solved problems
